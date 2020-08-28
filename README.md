@@ -11,4 +11,4 @@
 1. SingBERT models extractive summarization demonstrated [here](summarization/singbert_extractive_summarization.ipynb).
 
 ## Text Classification
-1. Classification of the speaker/user of SMS messages from the [NUS SMS Corpus](https://github.com/kite1988/nus-sms-corpus), with the processed json data obtained from [Kaggle](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus) demonstrated [here](text_classification/sms_classification.ipynb)
+1. Classification of the speaker/user of SMS messages from the [NUS SMS Corpus](https://github.com/kite1988/nus-sms-corpus), with the processed json data obtained from [Kaggle](https://www.kaggle.com/rtatman/the-national-university-of-singapore-sms-corpus) demonstrated [here](text_classification/sms_classification.ipynb).
